@@ -1,0 +1,2 @@
+- Charter type Schools have better score average in all the categories, and the tops 5 performing school are Charter type.
+- Schools with the least spending range per student (<$585) are the ones with the highest Overall percentage of passing scores.
